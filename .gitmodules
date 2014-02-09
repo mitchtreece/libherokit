@@ -1,6 +1,8 @@
 [submodule "theos"]
 	path = theos
 	url = https://bitbucket.org/mitchtreece/theos.git
+	ignore = dirty
 [submodule "example/theos"]
 	path = example/theos
 	url = https://bitbucket.org/mitchtreece/theos.git
+	ignore = dirty
